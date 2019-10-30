@@ -14,7 +14,7 @@ namespace DigitalID.DataAccess
     {
         public DigitalIdDbContext() : base("DigitalID")
         {
-            Database.SetInitializer<DigitalIdDbContext>(new NewDbInitializer());
+           
         }
         public DbSet<IdCard> IdCards { get; set; }
         public DbSet<Gender> Genders { get; set; }

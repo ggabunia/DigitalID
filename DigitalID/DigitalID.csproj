@@ -211,7 +211,6 @@
     <Compile Include="DataAccess\DbInitializer.cs" />
     <Compile Include="DataAccess\DigitalIdDbContext.cs" />
     <Compile Include="DataAccess\GenericRepository.cs" />
-    <Compile Include="DataAccess\NewDbInitializer.cs" />
     <Compile Include="DataAccess\UnitOfWork.cs" />
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
