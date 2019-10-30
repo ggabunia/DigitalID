@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalID", "DigitalID\DigitalID.csproj", "{9685F4A7-B877-4185-AF2E-40814C76D2C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9685F4A7-B877-4185-AF2E-40814C76D2C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9685F4A7-B877-4185-AF2E-40814C76D2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9685F4A7-B877-4185-AF2E-40814C76D2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9685F4A7-B877-4185-AF2E-40814C76D2C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16198469-0F5D-4C79-B734-1146D2457DF7}
+	EndGlobalSection
+EndGlobal
